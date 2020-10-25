@@ -1,5 +1,7 @@
 # git-lab
 
+Install git (if not installed already)
+****************************************
 1. Open previous project (with unit testing)
 2. Connect working directory to Git
 3. Add .gitignore file
